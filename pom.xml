@@ -9,7 +9,7 @@
 	<description>这里是分支10</description>
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-		<spring.version>4.3.4.RELEASE</spring.version>
+		<spring.version>5.2.1.RELEASE</spring.version>
 		<mybatis.version>3.2.2</mybatis.version>
 		<mybatisspring.version>1.1.1</mybatisspring.version>
 	</properties>
